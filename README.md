@@ -1,5 +1,7 @@
 # Nucleotide Count
 
+Please note: I wrote the nucleotide_count.cpp and nucleotide_count.h files. I did not write nucleotide_count_test.cpp file. Thanks, Walt
+
 Given a single stranded DNA string, compute how many times each nucleotide occurs in the string.
 
 The genetic language of every living thing on the planet is DNA.
